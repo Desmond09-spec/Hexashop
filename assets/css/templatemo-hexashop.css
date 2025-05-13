@@ -538,6 +538,15 @@ header
   }
 }
 
+.gg-logo {
+  height: 25px;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-10%);
+  margin-left: 10px;
+}
+
 @media (max-width: 767px) {
   .header-area .main-nav .logo {
     color: #1e1e1e;
@@ -1915,7 +1924,7 @@ About Us Page
 .about-page-heading {
   margin-top: 160px;
   margin-bottom: 30px;
-  background-image: url(../images/about-us-page-heading.jpg);
+  background-image: url(../images/lipglossbackground-pink.jpeg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
